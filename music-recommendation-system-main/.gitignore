@@ -1,0 +1,4 @@
+ *.csv
+*.rar
+__pycache__/
+.venv/
